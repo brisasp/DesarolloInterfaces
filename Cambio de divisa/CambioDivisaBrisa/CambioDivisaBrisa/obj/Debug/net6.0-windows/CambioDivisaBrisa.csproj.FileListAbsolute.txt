@@ -1,0 +1,17 @@
+D:\Cambio de divisa\CambioDivisaBrisa\CambioDivisaBrisa\bin\Debug\net6.0-windows\CambioDivisaBrisa.exe
+D:\Cambio de divisa\CambioDivisaBrisa\CambioDivisaBrisa\bin\Debug\net6.0-windows\CambioDivisaBrisa.deps.json
+D:\Cambio de divisa\CambioDivisaBrisa\CambioDivisaBrisa\bin\Debug\net6.0-windows\CambioDivisaBrisa.runtimeconfig.json
+D:\Cambio de divisa\CambioDivisaBrisa\CambioDivisaBrisa\bin\Debug\net6.0-windows\CambioDivisaBrisa.dll
+D:\Cambio de divisa\CambioDivisaBrisa\CambioDivisaBrisa\bin\Debug\net6.0-windows\CambioDivisaBrisa.pdb
+D:\Cambio de divisa\CambioDivisaBrisa\CambioDivisaBrisa\obj\Debug\net6.0-windows\CambioDivisaBrisa.Form1.resources
+D:\Cambio de divisa\CambioDivisaBrisa\CambioDivisaBrisa\obj\Debug\net6.0-windows\CambioDivisaBrisa.Properties.Resources.resources
+D:\Cambio de divisa\CambioDivisaBrisa\CambioDivisaBrisa\obj\Debug\net6.0-windows\CambioDivisaBrisa.csproj.GenerateResource.cache
+D:\Cambio de divisa\CambioDivisaBrisa\CambioDivisaBrisa\obj\Debug\net6.0-windows\CambioDivisaBrisa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cambio de divisa\CambioDivisaBrisa\CambioDivisaBrisa\obj\Debug\net6.0-windows\CambioDivisaBrisa.AssemblyInfoInputs.cache
+D:\Cambio de divisa\CambioDivisaBrisa\CambioDivisaBrisa\obj\Debug\net6.0-windows\CambioDivisaBrisa.AssemblyInfo.cs
+D:\Cambio de divisa\CambioDivisaBrisa\CambioDivisaBrisa\obj\Debug\net6.0-windows\CambioDivisaBrisa.csproj.CoreCompileInputs.cache
+D:\Cambio de divisa\CambioDivisaBrisa\CambioDivisaBrisa\obj\Debug\net6.0-windows\CambioDivisaBrisa.dll
+D:\Cambio de divisa\CambioDivisaBrisa\CambioDivisaBrisa\obj\Debug\net6.0-windows\refint\CambioDivisaBrisa.dll
+D:\Cambio de divisa\CambioDivisaBrisa\CambioDivisaBrisa\obj\Debug\net6.0-windows\CambioDivisaBrisa.pdb
+D:\Cambio de divisa\CambioDivisaBrisa\CambioDivisaBrisa\obj\Debug\net6.0-windows\CambioDivisaBrisa.genruntimeconfig.cache
+D:\Cambio de divisa\CambioDivisaBrisa\CambioDivisaBrisa\obj\Debug\net6.0-windows\ref\CambioDivisaBrisa.dll
