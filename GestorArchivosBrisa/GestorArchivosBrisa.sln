@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorArchivosBrisa", "GestorArchivosBrisa\GestorArchivosBrisa.csproj", "{4F89A5CD-E566-43AC-8547-1D2439288821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F89A5CD-E566-43AC-8547-1D2439288821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F89A5CD-E566-43AC-8547-1D2439288821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F89A5CD-E566-43AC-8547-1D2439288821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F89A5CD-E566-43AC-8547-1D2439288821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {272C17A3-CF16-4153-A305-0CE68BC16F92}
+	EndGlobalSection
+EndGlobal
